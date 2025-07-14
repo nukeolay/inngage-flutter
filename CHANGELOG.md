@@ -1,3 +1,6 @@
+## 3.7.1-gradle-fix
+* fix: namespace gradle
+
 ## 3.7.1
 * fix: Ensure conversion event parameters are properly registered.
 
